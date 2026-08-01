@@ -1,127 +1,136 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Azhar%20Ali&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Engineer&descSize=18&descAlignY=62" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Azhar-Ali-ali&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Azhar-Ali-ali?color=blueviolet&style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Azhar-Ali-ali?color=blueviolet&style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Azhar%20Ali&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Computer%20Engineering%20Student&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;Computer+Engineering+Student;Building+Scalable+Web+Apps" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Location](https://img.shields.io/badge/Location-Pakistan-6C63FF?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Final%20Year%20Student-8B5CF6?style=for-the-badge)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Azhar-Ali-ali)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Azhar-Ali-ali&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Azhar-Ali-ali?style=for-the-badge&color=8B5CF6&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/Azhar-Ali-ali?style=for-the-badge&color=A78BFA&label=STARS)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-<p align="center">
-  <b>Final Year Computer Engineering Student & Full Stack Software Engineer</b> specializing in building scalable distributed applications, modern micro-interactions, and enterprise-grade AI-powered solutions. Passionate about bridging the gap between cutting-edge Machine Learning research and robust web architecture.
-</p>
+I'm a final-year Computer Engineering student and full-stack developer focused on building scalable, production-grade web applications with a strong lean toward AI-powered products. My work sits at the intersection of clean software engineering and applied machine learning — from designing multi-tenant eCommerce architectures to integrating computer vision models into real user-facing features.
 
-- 💻 **Core Engineering:** Designing resilient microservices, high-throughput RESTful APIs, and responsive enterprise applications.
-- 🤖 **AI & Computer Vision:** Experienced in implementing neural networks, object detection architectures, and real-time inference pipelines.
-- 🎯 **Mission:** Delivering production-ready software solutions with an uncompromising focus on performance, security, and clean architecture.
-- 📍 **Based In:** Pakistan | **Open To:** Remote, Hybrid, and Relocation Opportunities Globally.
+I care about writing maintainable code, thinking in systems rather than one-off features, and shipping products end-to-end — frontend, backend, database, and the ML layer when needed.
+
+**🎯 Open To:**
+- Software Engineering roles (Full Stack / Backend)
+- AI/ML Engineering opportunities
+- Open-source collaboration
+- Internships at product-driven companies
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mysql,postgres,firebase,python,tensorflow,opencv,git,github,docker,aws,vscode,postman,figma" alt="Tech Stack Icons" />
-</p>
+**Languages**
+![JavaScript](https://skillicons.dev/icons?i=js) ![Python](https://skillicons.dev/icons?i=py) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
+
+**Frontend**
+![React](https://skillicons.dev/icons?i=react) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![JavaScript](https://skillicons.dev/icons?i=js)
+
+**Backend & Databases**
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![Firebase](https://skillicons.dev/icons?i=firebase)
+
+**AI / ML**
+![Python](https://skillicons.dev/icons?i=py) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![OpenCV](https://skillicons.dev/icons?i=opencv)
+
+**Cloud, DevOps & Tooling**
+![Docker](https://skillicons.dev/icons?i=docker) ![AWS](https://skillicons.dev/icons?i=aws) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman) ![Figma](https://skillicons.dev/icons?i=figma)
+
+> 🌱 Currently deepening skills in Docker, AWS, and System Design.
 
 ---
 
 ## 🤖 AI / ML Expertise
 
-<div align="center">
-
-| Domain | Proficiency | Details & Frameworks |
-| :--- | :---: | :--- |
-| **Computer Vision** | Advanced | OpenCV, Image Processing, Spatial Feature Extraction |
-| **Deep Learning** | Advanced | TensorFlow, Keras, Custom CNN & ResNet50 Architectures |
-| **Data Engineering** | Intermediate | NumPy, Pandas, Automated Data Scraping & Pipeline Cleaning |
-| **AI Integration** | Advanced | Generative AI APIs, Multi-Modal Systems, Vector Search |
-
-</div>
+| Domain | Proficiency | Details |
+|---|---|---|
+| Computer Vision | Intermediate | Experience with OpenCV and ResNet50 for image-based features |
+| Deep Learning | Intermediate | Model integration using TensorFlow |
+| AI-Assisted Product Features | Applied | Built AI virtual try-on and recommendation systems in production project |
+| ML Deployment | Learning | Currently exploring cloud deployment of ML models via AWS/Docker |
 
 ---
 
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🛍️ AI Clothing Marketplace (StyleMatch)</b> — Click to expand</summary>
+<summary><b>🛍️ AI Clothing Marketplace</b></summary>
 
-<br>
+<br/>
 
-A full-scale, production-ready multi-vendor e-commerce platform integrated with AI-driven product recommendations and virtual try-on capabilities.
+A complete AI-powered multi-vendor eCommerce platform with dedicated customer, seller, and admin dashboards.
 
-<div align="center">
+| Aspect | Detail |
+|---|---|
+| Stack | React, Node.js, Express.js, PostgreSQL |
+| Scale | Multi-vendor architecture (Customer / Seller / Admin) |
+| Performance | Optimized product & inventory queries on PostgreSQL |
+| Security | Authenticated role-based dashboards |
+| Impact | AI virtual try-on + AI-driven product recommendations |
+| Repository | Live Demo: [luminaclothes.app](https://luminaclothes.app) |
 
-| Metric | Specification |
-| :--- | :--- |
-| **Stack** | React.js, Node.js, Express.js, PostgreSQL, Tailwind CSS, Python, TensorFlow |
-| **Scale** | Multi-vendor architecture supporting hundreds of concurrent dynamic queries |
-| **Performance** | Optimized database indexing with sub-second query execution times |
-| **Security** | JWT authentication, role-based access control (RBAC), sanitized inputs |
-| **Impact** | Automated virtual product matching reducing customer return rates |
-| **Repository** | [View Source Code](https://github.com/Azhar-Ali-ali/AI-Clothing-Marketplace) |
-
-</div>
-
-- Engineered comprehensive role-based dashboards for Customers, Sellers, and System Administrators.
-- Implemented real-time inventory synchronization and secure checkout workflows.
+Built to handle the full lifecycle of a multi-vendor marketplace — product management, inventory tracking, order management — layered with AI features (virtual try-on, recommendations) to improve buyer experience and conversion.
 
 </details>
 
 <details>
-<summary><b>🎓 Student Management System</b> — Click to expand</summary>
+<summary><b>🎓 Student Management System</b></summary>
 
-<br>
+<br/>
 
-A modern administrative web application designed for academic record tracking, automated attendance management, and rapid CRUD operations.
+A modern web application for managing students, teachers, and academic records.
 
-<div align="center">
+| Aspect | Detail |
+|---|---|
+| Stack | Full-stack web application |
+| Scale | Multi-role (students, teachers, admin) |
+| Performance | CRUD-optimized data operations |
+| Security | Authentication-gated dashboard access |
+| Impact | Streamlined attendance and record management |
+| Repository | *Add repo link* |
 
-| Metric | Specification |
-| :--- | :--- |
-| **Stack** | JavaScript, React.js, Node.js, Express.js, Firebase |
-| **Scale** | Enterprise institutional record handler |
-| **Performance** | Asynchronous state management with minimal re-renders |
-| **Security** | Secure token-based session management |
-| **Impact** | Streamlined administrative paperwork by over 60 percent |
-| **Repository** | [View Source Code](https://github.com/Azhar-Ali-ali/Student-Management-System) |
-
-</div>
-
-- Developed dynamic data tables with live filtering, sorting, and reporting tools.
+Covers core academic administration workflows: student records, attendance tracking, authenticated dashboards, and full CRUD operations for managing school data.
 
 </details>
 
 <details>
-<summary><b>🎬 Netflix Clone</b> — Click to expand</summary>
+<summary><b>🎬 Netflix Clone</b></summary>
 
-<br>
+<br/>
 
-A high-fidelity, responsive frontend entertainment streaming interface replicating core platform design patterns and interactive media rows.
+A Netflix-inspired, fully responsive frontend built with modern web technologies.
 
-<div align="center">
-
-| Metric | Specification |
-| :--- | :--- |
-| **Stack** | HTML5, CSS3, JavaScript (ES6+), REST APIs |
-| **Scale** | Fully responsive across mobile, tablet, and desktop viewports |
-| **Performance** | Lazy-loaded imagery and optimized DOM rendering |
-| **Security** | Secure API key handling via environment isolation |
-| **Impact** | Demonstrated mastery of advanced CSS layouts and dynamic state rendering |
-| **Repository** | [View Source Code](https://github.com/Azhar-Ali-ali/Netflix-Clone) |
-
-</div>
+| Aspect | Detail |
+|---|---|
+| Stack | HTML5, CSS3, JavaScript / React |
+| Scale | Single-page responsive frontend |
+| Performance | Optimized responsive layouts |
+| Security | N/A (frontend showcase) |
+| Impact | UI/UX practice project replicating a production-grade streaming interface |
+| Repository | *Add repo link* |
 
 </details>
 
@@ -129,11 +138,16 @@ A high-fidelity, responsive frontend entertainment streaming interface replicati
 
 ## 💼 Experience
 
-### **Full Stack & AI Developer**
-*Freelance & Academic Projects* | *2024 — Present*
-- Architected and deployed end-to-end full stack web applications utilizing the MERN stack and relational databases.
-- Integrated computer vision and machine learning models into web products to provide unique user features.
-- Applied containerization and modern DevOps practices to streamline local development environments.
+> *Add your work experience here — job title, company, date range, description, scope of work, and skills used. Leaving this as a template rather than inventing a placeholder employer.*
+
+**[Job Title] · [Company Name]**
+*[Start Date] – [End Date]*
+
+- [Responsibility / scope of work]
+- [Responsibility / scope of work]
+- [Responsibility / scope of work]
+
+`Skill` `Skill` `Skill`
 
 ---
 
@@ -142,9 +156,8 @@ A high-fidelity, responsive frontend entertainment streaming interface replicati
 <div align="center">
 
 | Recognition | Details |
-| :--- | :--- |
-| **Final Year Project Excellence** | Successfully designed and delivered an advanced AI-powered e-commerce platform. |
-| **Academic Consistency** | Maintained strong academic standing in Computer Engineering through rigorous coursework. |
+|---|---|
+| *Add achievement* | *Add details* |
 
 </div>
 
@@ -152,75 +165,113 @@ A high-fidelity, responsive frontend entertainment streaming interface replicati
 
 ## 📜 Certifications
 
-- **Cloud & DevOps:** Docker & AWS Cloud Essentials (In Progress)
-- **Software Engineering:** Full Stack Web Development Specialization
-- **AI & Data:** Deep Learning Fundamentals & Computer Vision Applications
+> *Add real certification badges/links here once available — none invented.*
+
+**AWS**
+- *Add certification*
+
+**Oracle**
+- *Add certification*
+
+**NPTEL**
+- *Add certification*
+
+**Cisco**
+- *Add certification*
 
 ---
 
 ## 💻 Coding Profiles
 
-<p align="center">
-  <a href="https://leetcode.com/u/Azhar_Ali_ali/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=f89f1b" alt="LeetCode" /></a>
-  <a href="https://www.geeksforgeeks.org/user/azhar_ali_ali/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-29864d?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-  <a href="https://www.hackerrank.com/profile/azhar_ali_ali" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-</p>
+> *Add your real handles below to activate these badges — usernames are placeholders.*
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-your--handle-6C63FF?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-handle)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-your--handle-8B5CF6?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/your-handle)
+[![HackerRank](https://img.shields.io/badge/HackerRank-your--handle-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/your-handle)
+[![CodeChef](https://img.shields.io/badge/CodeChef-your--handle-6D28D9?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/your-handle)
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azhar-Ali-ali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azhar-Ali-ali&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=Azhar-Ali-ali&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Azhar-Ali-ali&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=8B5CF6&text_color=ffffff&bg_color=0D1117" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azhar-Ali-ali&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=ffffff&bg_color=0D1117" width="48%"/>
 
----
+<img src="https://streak-stats.demolab.com?user=Azhar-Ali-ali&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&background=0D1117" width="70%"/>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Azhar-Ali-ali&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=4" alt="GitHub Trophies" />
-</p>
+</div>
 
 ---
 
-## 📊 Contribution Activity
+## 🏅 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azhar-Ali-ali&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Azhar-Ali-ali&theme=algolia&no-frame=true&row=1&column=6" width="90%"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Azhar-Ali-ali&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</div>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Azhar-Ali-ali/Azhar-Ali-ali/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Azhar-Ali-ali/Azhar-Ali-ali/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
+</div>
 
 ---
 
-## ⚡ Current Focus
+## 🎯 Current Focus
 
 ```yaml
 Learning:
-  - Docker & Containerization Workflows
-  - AWS Cloud Infrastructure
-  - Distributed System Design & Clean Architecture
+  - Docker
+  - AWS
+  - System Design
 
 Building:
-  - Advanced AI-Powered Web Applications
-  - Scalable E-Commerce Ecosystems
+  - AI Clothing Marketplace (v2)
+  - Personal Portfolio
 
 Exploring:
-  - Computer Vision Model Optimization
-  - Modern Frontend Performance Engineering
+  - Clean Architecture
+  - Cloud-native ML deployment
 
 Open To:
-  - Software Engineering Roles (Full Stack / AI)
-  - Innovative Collaborative Projects
+  - Software Engineering roles
+  - AI/ML collaborations
+  - Open-source contributions
+```
+
+---
+
+## 📫 Connect With Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Azhar-Ali-ali)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+
+---
+
+<div align="center">
+
+*"Turning ideas into scalable, real-world software — one system at a time."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer" width="100%"/>
+
+</div>
