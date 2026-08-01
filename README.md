@@ -8,15 +8,15 @@
 
 <br/>
 
-![Location](https://img.shields.io/badge/Location-Pakistan-6C63FF?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Haripur%2C%20Pakistan-6C63FF?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Final%20Year%20Student-8B5CF6?style=for-the-badge)
 ![University](https://img.shields.io/badge/COMSATS%20University%20Abbottabad-6D28D9?style=for-the-badge)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://luminaclothes.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azhar-ali-39642137a)
+[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azharali.p201@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Azhar-Ali-ali)
 
 <br/>
@@ -31,9 +31,9 @@
 
 ## 🧠 About Me
 
-Computer Engineering student at COMSATS University Abbottabad, exploring software development, embedded systems, and web technologies. I'm focused on building scalable, production-grade web applications with a strong lean toward AI-powered products — from designing multi-vendor eCommerce architectures to integrating computer vision models into real user-facing features.
+Passionate and motivated Full Stack Developer with hands-on experience designing, developing, deploying, and maintaining modern web applications using React.js, JavaScript, Node.js, Express.js, and PostgreSQL. Experienced in building responsive user interfaces, developing secure RESTful APIs, implementing authentication systems, and integrating AI-powered features into real-world applications.
 
-I care about writing maintainable code, thinking in systems rather than one-off features, and shipping products end-to-end — frontend, backend, database, and the ML layer when needed.
+Successfully developed and deployed an AI-powered multi-vendor e-commerce platform featuring CLIP-based visual search, intelligent product recommendations, and role-based dashboards — hosted on a DigitalOcean Linux server using Nginx and PM2. Strong foundation in software engineering, database design, problem-solving, and cloud deployment, with a commitment to writing clean, scalable, and maintainable code.
 
 **🎯 Open To:**
 - Software Engineering roles (Full Stack / Backend)
@@ -52,7 +52,7 @@ I care about writing maintainable code, thinking in systems rather than one-off 
 ![React](https://skillicons.dev/icons?i=react) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![JavaScript](https://skillicons.dev/icons?i=js)
 
 **Backend & Databases**
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![Firebase](https://skillicons.dev/icons?i=firebase)
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Firebase](https://skillicons.dev/icons?i=firebase)
 
 **AI / ML**
 ![Python](https://skillicons.dev/icons?i=py) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![OpenCV](https://skillicons.dev/icons?i=opencv)
@@ -98,20 +98,106 @@ Built to handle the full lifecycle of a multi-vendor marketplace — product man
 </details>
 
 <details>
-<summary><b>🎓 Final Year Project (FYP-Project)</b></summary>
+<summary><b>🛍️ AI Clothing Marketplace</b></summary>
 
 <br/>
 
-A modern e-commerce platform with AI-powered product suggestions and business trend predictions, built to enhance user experience and help sellers make data-driven decisions.
+A complete AI-powered multi-vendor eCommerce platform with dedicated customer, seller, and admin dashboards.
 
 | Aspect | Detail |
 |---|---|
-| Stack | JavaScript / Node.js |
-| Scale | Full e-commerce platform |
-| Performance | AI-driven product suggestion engine |
-| Security | User-facing platform with business analytics layer |
-| Impact | Business trend prediction to support data-driven seller decisions |
-| Repository | [github.com/Azhar-Ali-ali/FYP-Project](https://github.com/Azhar-Ali-ali/FYP-Project) |
+| Stack | React.js, Node.js, Express.js, PostgreSQL |
+| Scale | Multi-vendor architecture (Customer / Seller / Admin) |
+| Performance | CLIP-based visual search + optimized inventory queries on PostgreSQL |
+| Security | Secure authentication with role-based dashboards |
+| Impact | AI virtual try-on, CLIP-based image search, and AI-driven product recommendations |
+| Deployment | DigitalOcean (Linux), Nginx, PM2 |
+| Repository | Live Demo: [luminaclothes.app](https://luminaclothes.app) |
+
+</details>
+
+<details>
+<summary><b>🎓 School Management Website</b></summary>
+
+<br/>
+
+A full-stack school management application with student registration and an admin dashboard.
+
+| Aspect | Detail |
+|---|---|
+| Stack | Full-stack web app, PostgreSQL |
+| Scale | Student registration + admin dashboard |
+| Performance | Backend APIs integrated with PostgreSQL for data management |
+| Security | Admin-gated data management |
+| Impact | Streamlined school administration workflows |
+
+</details>
+
+<details>
+<summary><b>🚗 Car Selling Website</b></summary>
+
+<br/>
+
+A car listing platform with posting, search, and filtering functionality.
+
+| Aspect | Detail |
+|---|---|
+| Stack | Full-stack web app |
+| Scale | Listings with search & filter |
+| Performance | Database-backed search/filter |
+| Security | User authentication |
+| Impact | Responsive, user-friendly car marketplace UI |
+
+</details>
+
+<details>
+<summary><b>👁️ Face Recognition System</b></summary>
+
+<br/>
+
+A real-time face recognition system applying digital image processing techniques.
+
+| Aspect | Detail |
+|---|---|
+| Stack | Python, OpenCV |
+| Scale | Real-time detection & recognition |
+| Performance | Feature extraction and matching techniques |
+| Security | Identity recognition use case |
+| Impact | Applied digital image processing for detection & recognition |
+
+</details>
+
+<details>
+<summary><b>🍪 Biscuit Classification (ResNet50)</b></summary>
+
+<br/>
+
+A deep learning image classification model built with transfer learning.
+
+| Aspect | Detail |
+|---|---|
+| Stack | Python, TensorFlow, ResNet50 |
+| Scale | Custom image dataset |
+| Performance | Transfer learning applied to improve accuracy |
+| Security | N/A |
+| Impact | End-to-end deep learning pipeline: preprocessing → training → classification |
+
+</details>
+
+<details>
+<summary><b>🏪 Shop Management System</b></summary>
+
+<br/>
+
+A console-based shop management system built with C++ and OOP concepts.
+
+| Aspect | Detail |
+|---|---|
+| Stack | C++, OOP |
+| Scale | Console application |
+| Performance | Structured, efficient logic for product & billing operations |
+| Security | N/A |
+| Impact | Product management, billing, and record handling |
 
 </details>
 
@@ -134,20 +220,20 @@ A real-time chat application with user authentication, friend requests, and live
 </details>
 
 <details>
-<summary><b>🛍️ AI Clothing Marketplace</b></summary>
+<summary><b>🎓 FYP-Project</b></summary>
 
 <br/>
 
-A complete AI-powered multi-vendor eCommerce platform with dedicated customer, seller, and admin dashboards.
+A modern e-commerce platform with AI-powered product suggestions and business trend predictions.
 
 | Aspect | Detail |
 |---|---|
-| Stack | React, Node.js, Express.js, PostgreSQL |
-| Scale | Multi-vendor architecture (Customer / Seller / Admin) |
-| Performance | Optimized product & inventory queries on PostgreSQL |
-| Security | Authenticated role-based dashboards |
-| Impact | AI virtual try-on + AI-driven product recommendations |
-| Repository | Live Demo: [luminaclothes.app](https://luminaclothes.app) |
+| Stack | JavaScript / Node.js |
+| Scale | Full e-commerce platform |
+| Performance | AI-driven product suggestion engine |
+| Security | User-facing platform with business analytics layer |
+| Impact | Business trend prediction to support data-driven seller decisions |
+| Repository | [github.com/Azhar-Ali-ali/FYP-Project](https://github.com/Azhar-Ali-ali/FYP-Project) |
 
 </details>
 
@@ -162,8 +248,6 @@ Repository of web development lab assignments and exercises.
 |---|---|
 | Stack | HTML |
 | Scale | Coursework / lab exercises |
-| Performance | N/A |
-| Security | N/A |
 | Impact | Foundational web-dev practice repo |
 | Repository | [github.com/Azhar-Ali-ali/lab-manual](https://github.com/Azhar-Ali-ali/lab-manual) |
 
@@ -180,8 +264,6 @@ Collection of small web pages and practice projects.
 |---|---|
 | Stack | HTML |
 | Scale | Multiple small standalone pages |
-| Performance | N/A |
-| Security | N/A |
 | Impact | Practice ground for UI/frontend fundamentals |
 | Repository | [github.com/Azhar-Ali-ali/mini_projects](https://github.com/Azhar-Ali-ali/mini_projects) |
 
@@ -189,18 +271,13 @@ Collection of small web pages and practice projects.
 
 ---
 
-## 💼 Experience
+## 🎓 Education
 
-> *Add your work experience here — job title, company, date range, description, scope of work, and skills used. Leaving this as a template rather than inventing a placeholder employer.*
+**BS Computer Engineering** · COMSATS University Islamabad, Abbottabad Campus
+*Expected Graduation: 2026 · Abbottabad, Pakistan*
 
-**[Job Title] · [Company Name]**
-*[Start Date] – [End Date]*
-
-- [Responsibility / scope of work]
-- [Responsibility / scope of work]
-- [Responsibility / scope of work]
-
-`Skill` `Skill` `Skill`
+**FSc Pre-Engineering (Computer Science)** · Working Folks Grammar School and College
+*Completed: 2022 · Hattar, Haripur, Pakistan*
 
 ---
 
@@ -216,21 +293,16 @@ Collection of small web pages and practice projects.
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Workshops
 
-> *Add real certification badges/links here once available — none invented.*
+**IEEE COMSATS Abbottabad**
+- Certificate of Participation — Job Hunting & Professional Profile Development Workshop
 
-**AWS**
-- *Add certification*
+**IEEE Student Branch, CUI Abbottabad**
+- Certificate of Organizer — Design to Manufacture: Full Cycle Development of State-of-the-Art Embedded Projects
 
-**Oracle**
-- *Add certification*
-
-**NPTEL**
-- *Add certification*
-
-**Cisco**
-- *Add certification*
+**Department of Computer Engineering, COMSATS Abbottabad**
+- Certificate of Appreciation — Modern Trends in Career Development
 
 ---
 
@@ -314,10 +386,10 @@ Open To:
 
 ## 📫 Connect With Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Gmail](https://img.shields.io/badge/Gmail-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azharali.p201@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azhar-ali-39642137a)
 [![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Azhar-Ali-ali)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://luminaclothes.app)
 
 ---
 
