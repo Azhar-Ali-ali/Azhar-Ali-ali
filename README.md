@@ -161,9 +161,9 @@ A high-fidelity, responsive frontend entertainment streaming interface replicati
 ## 💻 Coding Profiles
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=f89f1b" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/GeeksforGeeks-29864d?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  <a href="https://leetcode.com/u/Azhar_Ali_ali/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=f89f1b" alt="LeetCode" /></a>
+  <a href="https://www.geeksforgeeks.org/user/azhar_ali_ali/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-29864d?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="https://www.hackerrank.com/profile/azhar_ali_ali" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
 </p>
 
 ---
