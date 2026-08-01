@@ -70,7 +70,7 @@ A full-scale, production-ready multi-vendor e-commerce platform integrated with 
 | **Performance** | Optimized database indexing with sub-second query execution times |
 | **Security** | JWT authentication, role-based access control (RBAC), sanitized inputs |
 | **Impact** | Automated virtual product matching reducing customer return rates |
-| **Repository** | [View Source Code](https://github.com/Azhar-Ali-ali) |
+| **Repository** | [View Source Code](https://github.com/Azhar-Ali-ali/AI-Clothing-Marketplace) |
 
 </div>
 
@@ -95,7 +95,7 @@ A modern administrative web application designed for academic record tracking, a
 | **Performance** | Asynchronous state management with minimal re-renders |
 | **Security** | Secure token-based session management |
 | **Impact** | Streamlined administrative paperwork by over 60 percent |
-| **Repository** | [View Source Code](https://github.com/Azhar-Ali-ali) |
+| **Repository** | [View Source Code](https://github.com/Azhar-Ali-ali/Student-Management-System) |
 
 </div>
 
@@ -119,7 +119,7 @@ A high-fidelity, responsive frontend entertainment streaming interface replicati
 | **Performance** | Lazy-loaded imagery and optimized DOM rendering |
 | **Security** | Secure API key handling via environment isolation |
 | **Impact** | Demonstrated mastery of advanced CSS layouts and dynamic state rendering |
-| **Repository** | [View Source Code](https://github.com/Azhar-Ali-ali) |
+| **Repository** | [View Source Code](https://github.com/Azhar-Ali-ali/Netflix-Clone) |
 
 </div>
 
