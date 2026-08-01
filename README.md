@@ -10,6 +10,7 @@
 
 ![Location](https://img.shields.io/badge/Location-Pakistan-6C63FF?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Final%20Year%20Student-8B5CF6?style=for-the-badge)
+![University](https://img.shields.io/badge/COMSATS%20University%20Abbottabad-6D28D9?style=for-the-badge)
 
 <br/>
 
@@ -30,7 +31,7 @@
 
 ## 🧠 About Me
 
-I'm a final-year Computer Engineering student and full-stack developer focused on building scalable, production-grade web applications with a strong lean toward AI-powered products. My work sits at the intersection of clean software engineering and applied machine learning — from designing multi-tenant eCommerce architectures to integrating computer vision models into real user-facing features.
+Computer Engineering student at COMSATS University Abbottabad, exploring software development, embedded systems, and web technologies. I'm focused on building scalable, production-grade web applications with a strong lean toward AI-powered products — from designing multi-vendor eCommerce architectures to integrating computer vision models into real user-facing features.
 
 I care about writing maintainable code, thinking in systems rather than one-off features, and shipping products end-to-end — frontend, backend, database, and the ML layer when needed.
 
@@ -97,40 +98,92 @@ Built to handle the full lifecycle of a multi-vendor marketplace — product man
 </details>
 
 <details>
-<summary><b>🎓 Student Management System</b></summary>
+<summary><b>🎓 Final Year Project (FYP-Project)</b></summary>
 
 <br/>
 
-A modern web application for managing students, teachers, and academic records.
+A modern e-commerce platform with AI-powered product suggestions and business trend predictions, built to enhance user experience and help sellers make data-driven decisions.
 
 | Aspect | Detail |
 |---|---|
-| Stack | Full-stack web application |
-| Scale | Multi-role (students, teachers, admin) |
-| Performance | CRUD-optimized data operations |
-| Security | Authentication-gated dashboard access |
-| Impact | Streamlined attendance and record management |
-| Repository | *Add repo link* |
-
-Covers core academic administration workflows: student records, attendance tracking, authenticated dashboards, and full CRUD operations for managing school data.
+| Stack | JavaScript / Node.js |
+| Scale | Full e-commerce platform |
+| Performance | AI-driven product suggestion engine |
+| Security | User-facing platform with business analytics layer |
+| Impact | Business trend prediction to support data-driven seller decisions |
+| Repository | [github.com/Azhar-Ali-ali/FYP-Project](https://github.com/Azhar-Ali-ali/FYP-Project) |
 
 </details>
 
 <details>
-<summary><b>🎬 Netflix Clone</b></summary>
+<summary><b>💬 Real-Time Chat Application</b></summary>
 
 <br/>
 
-A Netflix-inspired, fully responsive frontend built with modern web technologies.
+A real-time chat application with user authentication, friend requests, and live messaging.
 
 | Aspect | Detail |
 |---|---|
-| Stack | HTML5, CSS3, JavaScript / React |
-| Scale | Single-page responsive frontend |
-| Performance | Optimized responsive layouts |
-| Security | N/A (frontend showcase) |
-| Impact | UI/UX practice project replicating a production-grade streaming interface |
-| Repository | *Add repo link* |
+| Stack | Node.js, Express, MongoDB, Socket.IO |
+| Scale | Real-time bidirectional communication |
+| Performance | WebSocket-based instant messaging via Socket.IO |
+| Security | User authentication + friend-request based access |
+| Impact | Full social messaging flow: auth → friend requests → live chat |
+| Repository | [github.com/Azhar-Ali-ali/chat-application](https://github.com/Azhar-Ali-ali/chat-application) |
+
+</details>
+
+<details>
+<summary><b>🛍️ AI Clothing Marketplace</b></summary>
+
+<br/>
+
+A complete AI-powered multi-vendor eCommerce platform with dedicated customer, seller, and admin dashboards.
+
+| Aspect | Detail |
+|---|---|
+| Stack | React, Node.js, Express.js, PostgreSQL |
+| Scale | Multi-vendor architecture (Customer / Seller / Admin) |
+| Performance | Optimized product & inventory queries on PostgreSQL |
+| Security | Authenticated role-based dashboards |
+| Impact | AI virtual try-on + AI-driven product recommendations |
+| Repository | Live Demo: [luminaclothes.app](https://luminaclothes.app) |
+
+</details>
+
+<details>
+<summary><b>📚 Lab Manual</b></summary>
+
+<br/>
+
+Repository of web development lab assignments and exercises.
+
+| Aspect | Detail |
+|---|---|
+| Stack | HTML |
+| Scale | Coursework / lab exercises |
+| Performance | N/A |
+| Security | N/A |
+| Impact | Foundational web-dev practice repo |
+| Repository | [github.com/Azhar-Ali-ali/lab-manual](https://github.com/Azhar-Ali-ali/lab-manual) |
+
+</details>
+
+<details>
+<summary><b>🧩 Mini Projects</b></summary>
+
+<br/>
+
+Collection of small web pages and practice projects.
+
+| Aspect | Detail |
+|---|---|
+| Stack | HTML |
+| Scale | Multiple small standalone pages |
+| Performance | N/A |
+| Security | N/A |
+| Impact | Practice ground for UI/frontend fundamentals |
+| Repository | [github.com/Azhar-Ali-ali/mini_projects](https://github.com/Azhar-Ali-ali/mini_projects) |
 
 </details>
 
