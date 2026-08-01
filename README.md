@@ -281,18 +281,6 @@ Collection of small web pages and practice projects.
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| *Add achievement* | *Add details* |
-
-</div>
-
----
-
 ## 📜 Certifications & Workshops
 
 **IEEE COMSATS Abbottabad**
@@ -307,8 +295,6 @@ Collection of small web pages and practice projects.
 ---
 
 ## 💻 Coding Profiles
-
-> *Add your real handles below to activate these badges — usernames are placeholders.*
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-your--handle-6C63FF?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-handle)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-your--handle-8B5CF6?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/your-handle)
