@@ -307,13 +307,13 @@ Collection of small web pages and practice projects.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Azhar-Ali-ali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api?username=Azhar-Ali-ali&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" height="170"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azhar-Ali-ali&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azhar-Ali-ali&layout=compact&theme=github_dark" height="170"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Azhar-Ali-ali&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Azhar-Ali-ali&theme=github-dark-blue"/>
 
 </div>
 
