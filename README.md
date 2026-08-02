@@ -307,10 +307,13 @@ Collection of small web pages and practice projects.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Azhar-Ali-ali&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=8B5CF6&text_color=ffffff&bg_color=0D1117" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azhar-Ali-ali&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=ffffff&bg_color=0D1117" width="48%"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Azhar-Ali-ali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
 
-<img src="https://streak-stats.demolab.com?user=Azhar-Ali-ali&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&background=0D1117" width="70%"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azhar-Ali-ali&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Azhar-Ali-ali&theme=tokyonight&hide_border=true" />
 
 </div>
 
