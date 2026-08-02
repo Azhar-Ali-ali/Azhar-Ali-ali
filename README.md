@@ -305,17 +305,18 @@ Collection of small web pages and practice projects.
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Azhar-Ali-ali&theme=github_dark" width="100%" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Azhar-Ali-ali&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" height="170"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Azhar-Ali-ali&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Azhar-Ali-ali&theme=github_dark" width="48%" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azhar-Ali-ali&layout=compact&theme=github_dark" height="170"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Azhar-Ali-ali&theme=github-dark-blue"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Azhar-Ali-ali&theme=github-dark-blue&hide_border=true" />
+</p>
 
 ---
 
