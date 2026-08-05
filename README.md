@@ -1,181 +1,123 @@
-<div align="center">
+Azhar Ali
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,100:7C3AED&text=Azhar%20Ali&fontColor=ffffff&fontSize=48&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=18"/>
+Full Stack Web Developer
 
-# Full Stack Web Developer
+Welcome to my GitHub profile.
 
-Building scalable web applications with React, Node.js, Express.js and PostgreSQL.
+About Me
 
-[Portfolio](https://luminaclothes.app) •
-[LinkedIn](https://linkedin.com/in/azhar-ali-39642137a) •
-[GitHub](https://github.com/Azhar-Ali-ali)
+I'm a Computer Engineering graduate passionate about building scalablefull-stack web applications using React.js, Node.js, Express.js, andPostgreSQL.
 
-</div>
+Tech Stack
 
----
+React.js
 
-# About Me
+JavaScript
 
-I'm a Computer Engineering graduate passionate about building modern full-stack web applications.
+HTML5
 
-My primary focus is developing scalable backend systems, responsive frontend applications, and production-ready software using JavaScript technologies.
+CSS3
 
-I enjoy solving real-world problems through software and continuously improving my knowledge of modern web development.
+Tailwind CSS
 
----
+Node.js
 
-# Tech Stack
+Express.js
 
-### Frontend
+PostgreSQL
 
-- React.js
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
+Git & GitHub
 
-### Backend
+Linux
 
-- Node.js
-- Express.js
-- REST API Development
-- JWT Authentication
-- Socket.io
+Nginx
 
-### Database
+PM2
 
-- PostgreSQL
-- MySQL
-- MongoDB
+DigitalOcean
 
-### DevOps & Tools
+Featured Projects
 
-- Linux
-- DigitalOcean
-- Nginx
-- PM2
-- Git
-- GitHub
-- Postman
+AI-Powered Multi-Vendor E-Commerce Platform
 
----
+Multi-vendor marketplace
 
-# Featured Projects
+JWT Authentication
 
-## AI-Powered Multi-Vendor E-Commerce Platform
+AI visual search
 
-Production-ready multi-vendor marketplace supporting customers, sellers, and administrators.
+Product recommendations
 
-**Highlights**
+Admin, Seller and Customer dashboards
 
-- AI-powered visual product search
-- Product recommendations
-- Secure JWT authentication
-- Seller, Customer & Admin dashboards
-- PostgreSQL relational database
-- Hosted on DigitalOcean
-- Nginx + PM2 deployment
+PostgreSQL
 
-**Tech**
+Deployed on DigitalOcean with Nginx & PM2
 
-React.js • Node.js • Express.js • PostgreSQL • Tailwind CSS
+Live Demo: https://luminaclothes.app
 
-**Live Demo**
+Real-Time Messaging Web Application
 
-https://luminaclothes.app
+User registration/login
 
----
+Username search
 
-## Real-Time Messaging Web Application
+Friend requests
 
-A real-time messaging platform where users can register, search for other users, send friend requests, and start chatting after the request is accepted.
+Real-time chat
 
-**Highlights**
+Socket.io
 
-- User authentication
-- Username search
-- Friend request system
-- Real-time messaging
-- Chat history
-- Socket.io integration
+PostgreSQL
 
-**Tech**
+School Management Website
 
-React.js • Node.js • Express.js • PostgreSQL • Socket.io
+Student management
 
----
+Admin dashboard
 
-## School Management Website
+CRUD operations
 
-A complete school management system for managing students and administration.
+PostgreSQL
 
-**Features**
+Car Selling Website
 
-- Student registration
-- Admin dashboard
-- CRUD operations
-- Authentication
-- PostgreSQL integration
+Vehicle listings
 
----
+Search & filtering
 
-## Car Selling Website
+Authentication
 
-A modern online marketplace for buying and selling vehicles.
+Responsive UI
 
-**Features**
+GitHub Stats
 
-- Vehicle listings
-- Search & filtering
-- Authentication
-- Responsive design
-- PostgreSQL database
+Replace with:
 
----
+![Stats](https://github-readme-stats.vercel.app/api?username=Azhar-Ali-ali&show_icons=true&theme=github_dark)
 
-# GitHub Statistics
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azhar-Ali-ali&layout=compact&theme=github_dark)
 
-<p align="center">
+![Streak](https://streak-stats.demolab.com?user=Azhar-Ali-ali&theme=github-dark)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Azhar-Ali-ali&show_icons=true&theme=github_dark"/>
+Current Focus
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azhar-Ali-ali&layout=compact&theme=github_dark"/>
+Full Stack Development
 
-</p>
+Docker
 
-<p align="center">
+Redis
 
-<img src="https://streak-stats.demolab.com?user=Azhar-Ali-ali&theme=github-dark"/>
+System Design
 
-</p>
+Open Source
 
----
+Connect
 
-# Current Focus
+Portfolio: https://luminaclothes.app
 
-- Building scalable Full Stack applications
-- Learning Docker
-- Learning Redis
-- Improving System Design knowledge
-- Contributing to open-source projects
+GitHub: https://github.com/Azhar-Ali-ali
 
----
+LinkedIn: https://linkedin.com/in/azhar-ali-39642137a
 
-# Connect With Me
-
-Portfolio
-
-https://luminaclothes.app
-
-LinkedIn
-
-https://linkedin.com/in/azhar-ali-39642137a
-
-Email
-
-azharali.p201@gmail.com
-
-GitHub
-
-https://github.com/Azhar-Ali-ali
+Email: azharali.p201@gmail.com
