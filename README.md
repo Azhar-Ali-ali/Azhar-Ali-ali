@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=220&section=header&text=Azhar%20Ali&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Computer%20Engineering%20Student&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=220&section=header&text=Azhar%20Ali&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%2F+ML+Engineer;Computer+Engineering+Student;Building+Scalable%2C+Production-Grade+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React.js+%7C+Node.js+%7C+Express.js+%7C+PostgreSQL;Building+Scalable+Web+Applications" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,7 +13,6 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-luminaclothes.app-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://luminaclothes.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8B7CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azhar-ali-39642137a)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azharali.p201@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Azhar--Ali--ali-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Azhar-Ali-ali)
@@ -30,73 +29,62 @@
 
 ### 🧠 About Me
 
-I'm a **Full Stack Developer and aspiring AI/ML Engineer** with hands-on, production experience shipping software end-to-end — from schema design to deployment. My core stack is **React.js, Node.js, Express.js, and PostgreSQL**, and I specialize in building secure, scalable REST APIs, role-based authentication systems, and responsive front-end interfaces.
+Full Stack Web Developer with hands-on experience building scalable web applications using **React.js, Node.js, Express.js, and PostgreSQL**. Experienced in developing responsive user interfaces, RESTful APIs, authentication systems, database design, and deploying applications on Linux servers using **Nginx and PM2**.
 
-I engineered and deployed an **AI-powered multi-vendor e-commerce platform** — over **80 RESTful APIs**, JWT-based role authentication, **CLIP-based visual product search**, and browsing-behavior-driven recommendations — hosted on a **DigitalOcean Linux server** using **Nginx and PM2**. I approach engineering with a product mindset: performance, security, and maintainability are non-negotiable, not afterthoughts.
-
-Currently deepening my expertise in **Docker, AWS, and System Design** to bridge the gap between full-stack engineering and cloud-native ML deployment.
-
-**🎯 Open To**
-- Software Engineering roles (Full Stack / Backend)
-- AI / ML Engineering opportunities
-- Open-source collaboration
-- Internships at product-driven companies
+Built and deployed a production-ready, AI-powered multi-vendor e-commerce platform hosted on **DigitalOcean**. Passionate about writing clean, maintainable code and continuously learning modern web technologies.
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages**
+**Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,py,cpp,sql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,sql,py,cpp&theme=dark" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,redux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark" />
 
-**Backend & Databases**
+`React.js` `Tailwind CSS` `Bootstrap` `Responsive Design` `React Router`
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb&theme=dark" />
+**Backend**
 
-**Cloud, DevOps & Tooling**
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,nginx,digitalocean,postman,docker,aws&theme=dark" />
+`Node.js` `Express.js` `REST API Development` `JWT Authentication` `Role-Based Access Control` `File Uploads`
 
-> 🌱 **Currently deepening skills in:** Docker · AWS · System Design
+**Database**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
+
+`PostgreSQL` `MySQL` `MongoDB`
+
+**DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,nginx,digitalocean,postman&theme=dark" />
+
+`Git` `GitHub` `Linux` `Nginx` `PM2` `DigitalOcean` `Postman`
 
 ---
 
-### 🤖 AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| **Computer Vision** | Intermediate | Experience with OpenCV and ResNet50 for image-based feature extraction |
-| **Deep Learning** | Intermediate | Model integration and transfer learning using TensorFlow |
-| **AI-Assisted Product Features** | Applied | Built AI virtual try-on, CLIP-based visual search, and recommendation systems in a production platform |
-| **ML Deployment** | Learning | Currently exploring cloud deployment of ML models via AWS / Docker |
-
----
-
-### 🚀 Featured Projects
+### 🚀 Technical Projects
 
 <details>
 <summary><b>🛍️ AI-Powered Multi-Vendor E-Commerce Platform</b></summary>
 
 <br/>
 
-A production-grade, AI-powered multi-vendor e-commerce platform with dedicated customer, seller, and admin dashboards.
-
 | Aspect | Detail |
 |---|---|
-| **Stack** | React.js · Node.js · Express.js · PostgreSQL · Tailwind CSS · JWT |
-| **Scale** | Multi-vendor architecture (Customer / Seller / Admin) · 80+ RESTful APIs |
-| **Performance** | CLIP-based visual search, optimized inventory queries, lazy loading |
-| **Security** | JWT authentication with role-based authorization |
-| **Impact** | AI virtual try-on, CLIP-based image search, and behavior-driven product recommendations |
-| **Deployment** | DigitalOcean (Linux) · Nginx · PM2 |
-| **Live Demo** | [luminaclothes.app](https://luminaclothes.app) |
+| **Scale** | Multi-vendor architecture supporting customers, sellers, and administrators |
+| **APIs** | Built 80+ RESTful APIs using Express.js |
+| **Security** | Secure JWT authentication and role-based authorization |
+| **Database** | PostgreSQL with optimized relational database design |
+| **AI Features** | AI-powered visual product search using CLIP; product recommendations based on browsing behavior |
+| **Deployment** | Deployed on DigitalOcean using Nginx, PM2, and Linux |
+| **Performance** | Optimized through lazy loading and API improvements |
 
-Built to handle the full lifecycle of a multi-vendor marketplace — product management, inventory tracking, and order management — layered with AI-driven features to improve buyer experience and conversion.
+**Tech Stack:** React.js • Node.js • Express.js • PostgreSQL • Tailwind CSS • JWT • DigitalOcean • Nginx • PM2
 
 </details>
 
@@ -105,15 +93,15 @@ Built to handle the full lifecycle of a multi-vendor marketplace — product man
 
 <br/>
 
-A full-stack school management application with student registration and an admin dashboard.
-
 | Aspect | Detail |
 |---|---|
-| **Stack** | React.js · Node.js · Express.js · PostgreSQL |
-| **Scale** | Student registration, profile management, CRUD operations |
-| **Performance** | RESTful APIs integrated with PostgreSQL for efficient data management |
-| **Security** | Role-based access for administrators |
-| **Impact** | Streamlined school administration workflows with a responsive UI |
+| **Purpose** | Full-stack web application for managing student records and administrative operations |
+| **Security** | Secure user authentication and role-based access for administrators |
+| **Features** | Student registration, profile management, and CRUD operations |
+| **Database** | RESTful APIs integrated with PostgreSQL for efficient data management |
+| **UI/UX** | Responsive interface for a seamless experience across desktop and mobile |
+
+**Tech Stack:** React.js • Node.js • Express.js • PostgreSQL
 
 </details>
 
@@ -122,15 +110,16 @@ A full-stack school management application with student registration and an admi
 
 <br/>
 
-A full-stack online car marketplace for buying and selling vehicles.
-
 | Aspect | Detail |
 |---|---|
-| **Stack** | React.js · Node.js · Express.js · PostgreSQL |
-| **Scale** | Listing creation, updates, deletion, and management |
-| **Performance** | Advanced search & filtering functionality |
-| **Security** | JWT-based user authentication |
-| **Impact** | Responsive, user-friendly car marketplace optimized for multiple devices |
+| **Purpose** | Full-stack online car marketplace for buying and selling vehicles |
+| **Security** | User registration, login, and secure authentication using JWT |
+| **Features** | Posting, updating, deleting, and managing vehicle listings |
+| **Search** | Advanced search and filtering functionality to improve user experience |
+| **Database** | PostgreSQL for user accounts, vehicle information, and listing details |
+| **UI/UX** | Responsive, user-friendly interface optimized for multiple devices |
+
+**Tech Stack:** React.js • Node.js • Express.js • PostgreSQL
 
 </details>
 
@@ -139,121 +128,33 @@ A full-stack online car marketplace for buying and selling vehicles.
 
 <br/>
 
-A real-time chat application with authentication, friend requests, and live one-to-one messaging.
-
 | Aspect | Detail |
 |---|---|
-| **Stack** | React.js · Node.js · Express.js · PostgreSQL · Socket.IO · JWT |
-| **Scale** | Real-time bidirectional communication |
-| **Performance** | WebSocket-based instant messaging via Socket.IO |
-| **Security** | JWT authentication + friend-request-gated access |
-| **Impact** | Complete social messaging flow: auth → username search → friend requests → live chat |
-| **Repository** | [github.com/Azhar-Ali-ali/chat-application](https://github.com/Azhar-Ali-ali/chat-application) |
+| **Purpose** | Real-time messaging web application with secure user authentication and account management |
+| **Features** | User registration, login, and unique username-based user search |
+| **Social** | Friend request system to send, accept, or reject connection requests |
+| **Real-Time** | One-to-one messaging using Socket.io after connection requests are accepted |
+| **Database** | Users, friend relationships, conversations, and chat history stored in PostgreSQL |
+| **UI/UX** | Responsive chat interface with an intuitive and modern user experience |
 
-</details>
-
-<details>
-<summary><b>🎓 FYP Project — AI-Driven E-Commerce Analytics</b></summary>
-
-<br/>
-
-A modern e-commerce platform with AI-powered product suggestions and business trend predictions.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | JavaScript / Node.js |
-| **Scale** | Full e-commerce platform with analytics layer |
-| **Performance** | AI-driven product suggestion engine |
-| **Security** | User-facing platform with business analytics access |
-| **Impact** | Business trend prediction to support data-driven seller decisions |
-| **Repository** | [github.com/Azhar-Ali-ali/FYP-Project](https://github.com/Azhar-Ali-ali/FYP-Project) |
-
-</details>
-
-<details>
-<summary><b>👁️ Real-Time Face Recognition System</b></summary>
-
-<br/>
-
-A real-time face recognition system applying digital image processing techniques.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | Python · OpenCV |
-| **Scale** | Real-time detection & recognition pipeline |
-| **Performance** | Feature extraction and matching techniques |
-| **Security** | Identity recognition use case |
-| **Impact** | Applied digital image processing for real-time detection & recognition |
-
-</details>
-
-<details>
-<summary><b>🍪 Biscuit Classification (ResNet50 Transfer Learning)</b></summary>
-
-<br/>
-
-A deep learning image classification model built with transfer learning.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | Python · TensorFlow · ResNet50 |
-| **Scale** | Custom image dataset |
-| **Performance** | Transfer learning applied to improve classification accuracy |
-| **Security** | N/A |
-| **Impact** | End-to-end deep learning pipeline: preprocessing → training → classification |
-
-</details>
-
-<details>
-<summary><b>🏪 Shop Management System</b></summary>
-
-<br/>
-
-A console-based shop management system built with C++ and OOP principles.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | C++ · OOP |
-| **Scale** | Console application |
-| **Performance** | Structured, efficient logic for product & billing operations |
-| **Security** | N/A |
-| **Impact** | Product management, billing, and record handling |
-
-</details>
-
-<details>
-<summary><b>📚 Lab Manual & Mini Projects</b></summary>
-
-<br/>
-
-Foundational web development coursework and standalone practice projects.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | HTML · CSS |
-| **Scale** | Coursework exercises + multiple small standalone pages |
-| **Impact** | Practice ground for frontend fundamentals |
-| **Repositories** | [lab-manual](https://github.com/Azhar-Ali-ali/lab-manual) · [mini_projects](https://github.com/Azhar-Ali-ali/mini_projects) |
+**Tech Stack:** React.js • Node.js • Express.js • PostgreSQL • Socket.io • JWT Authentication
 
 </details>
 
 ---
 
-### 💼 Experience
+### 🎓 Education
 
-**Full Stack Developer** · *AI-Powered E-Commerce Platform (Independent, Production Deployment)*
-📅 2025 – Present
+| Degree | Institution | Status |
+|---|---|---|
+| Bachelor of Science in Computer Engineering | COMSATS University Islamabad, Abbottabad Campus | Graduated: August 2026 |
+| FSc Pre-Engineering (Computer Science) | Working Folks Grammar School & College | Completed: 2022 |
 
-Designed, built, and shipped a production-ready multi-vendor e-commerce platform end-to-end — from database schema to cloud deployment — integrating AI-powered visual search and recommendation systems into a live, customer-facing product.
+---
 
-- Architected and implemented **80+ RESTful APIs** using Express.js across customer, seller, and admin roles
-- Designed secure **JWT authentication** and **role-based authorization** across all dashboards
-- Modeled and optimized a relational **PostgreSQL** schema for products, orders, and inventory
-- Integrated **CLIP-based visual search** and browsing-behavior product recommendations
-- Deployed and maintained the application on a **DigitalOcean Linux server** using **Nginx** and **PM2**
-- Improved performance through **lazy loading** and iterative API optimization
+### 📚 Relevant Coursework
 
-`React.js` `Node.js` `Express.js` `PostgreSQL` `JWT` `CLIP` `Nginx` `PM2` `DigitalOcean`
+`Data Structures & Algorithms` `Object-Oriented Programming` `Database Systems` `Software Engineering` `Web Engineering` `Operating Systems` `Computer Networks` `Computer Architecture`
 
 ---
 
@@ -263,11 +164,10 @@ Designed, built, and shipped a production-ready multi-vendor e-commerce platform
 
 | Recognition | Details |
 |---|---|
-| Production Deployment | Successfully developed and deployed a production-ready, AI-powered multi-vendor e-commerce platform |
+| Production Deployment | Successfully developed and deployed a production-ready multi-vendor e-commerce platform |
 | Full-Stack Delivery | Built 4+ full-stack web applications using React.js, Node.js, Express.js, and PostgreSQL |
-| API Engineering | Implemented 80+ secure RESTful APIs with JWT authentication and role-based access control |
-| Cloud Deployment | Deployed production web applications on Linux servers using DigitalOcean, Nginx, and PM2 |
-| AI Integration | Delivered CLIP-based visual search and behavior-driven recommendation systems in a live product |
+| API & Security | Implemented secure authentication, RESTful APIs, and PostgreSQL database integration |
+| Cloud Deployment | Deployed web applications on Linux servers using DigitalOcean, Nginx, and PM2 |
 
 </div>
 
@@ -286,18 +186,6 @@ Designed, built, and shipped a production-ready multi-vendor e-commerce platform
 **Department of Computer Engineering, COMSATS Abbottabad**
 
 ![Certificate](https://img.shields.io/badge/Certificate_of_Appreciation-Modern_Trends_in_Career_Development-A78BFA?style=flat-square&logo=googlescholar&logoColor=white)
-
----
-
-### 💻 Coding Profiles
-
-<!-- Add your personal handles below to activate these badges -->
-
-[![GitHub](https://img.shields.io/badge/GitHub-Azhar--Ali--ali-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Azhar-Ali-ali)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Add_Handle-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Add_Handle-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Add_Handle-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Add_Handle-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
 
 ---
 
@@ -348,30 +236,6 @@ Designed, built, and shipped a production-ready multi-vendor e-commerce platform
 
 ---
 
-### 🎯 Current Focus
-
-```yaml
-Learning:
-  - Docker
-  - AWS
-  - System Design
-
-Building:
-  - AI Clothing Marketplace (v2)
-  - Personal Portfolio
-
-Exploring:
-  - Clean Architecture
-  - Cloud-native ML Deployment
-
-Open To:
-  - Software Engineering roles
-  - AI/ML collaborations
-  - Open-source contributions
-```
-
----
-
 ### 📫 Connect With Me
 
 <div align="center">
@@ -379,13 +243,12 @@ Open To:
 [![Email](https://img.shields.io/badge/Gmail-azharali.p201%40gmail.com-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azharali.p201@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-azhar--ali--39642137a-8B7CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azhar-ali-39642137a)
 [![GitHub](https://img.shields.io/badge/GitHub-Azhar--Ali--ali-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Azhar-Ali-ali)
-[![Portfolio](https://img.shields.io/badge/Portfolio-luminaclothes.app-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://luminaclothes.app)
 
 </div>
 
 <div align="center">
 
-*"Turning ideas into scalable, real-world software — one system at a time."*
+*"Writing clean, maintainable code — one system at a time."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer" width="100%"/>
 
