@@ -39,31 +39,23 @@ Built and deployed a production-ready, AI-powered multi-vendor e-commerce platfo
 
 **Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,sql,py,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,py,cpp&theme=dark" />
 
 **Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark" />
 
-`React.js` `Tailwind CSS` `Bootstrap` `Responsive Design` `React Router`
-
 **Backend**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-
-`Node.js` `Express.js` `REST API Development` `JWT Authentication` `Role-Based Access Control` `File Uploads`
 
 **Database**
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
 
-`PostgreSQL` `MySQL` `MongoDB`
-
 **DevOps & Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,nginx,digitalocean,postman&theme=dark" />
-
-`Git` `GitHub` `Linux` `Nginx` `PM2` `DigitalOcean` `Postman`
+<img src="https://skillicons.dev/icons?i=git,github,linux,nginx,postman&theme=dark" />
 
 ---
 
